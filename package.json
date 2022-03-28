@@ -1,0 +1,23 @@
+{
+  "name": "@charithmadhuranga/test-packages",
+  "version": "1.0.0",
+  "description": "testing github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charithmadhuranga/test-packages.git"
+  },
+  "author": "charith madhuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charithmadhuranga/test-packages/issues"
+  },
+  "homepage": "https://github.com/charithmadhuranga/test-packages#readme"
+  ,
+  "publishConfig": {
+    "@charithmadhuranga:registry": "https://npm.pkg.github.com"
+  }
+}
